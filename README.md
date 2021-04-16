@@ -9,4 +9,4 @@ To work it needs only 3 things really:
 - the folder ID
 - the string you want to add as a prefix
 - to write 'yes' in the cell with the question With Number is you want an automatic numerical index corresponding to the numbers ALREADY present in the file names.
--  
+
